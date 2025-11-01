@@ -73,6 +73,5 @@ The neural network consists of multiple **Dense** layers with a combination of `
 
 **Author:** [Your Name]  
 **Date:** November 2025  
-**Repository:** [https://github.com/YourUsername/Airline-Delay-Classification](https://github.com/Islam-ML/Airline-Weather-Delay-Classification-using-Deep-Learning)
-
+**Repository:** [https://github.com/YourUsername/Airline-Delay-Classification](https://github.com/Islam-ML/Airline-Weather-Delay-Classification-using-Deep-Learning
 ---
