@@ -96,7 +96,7 @@ The neural network consists of multiple **Dense** layers with a combination of `
 
 ## 👤 Author
 
-**Author:** [Your Name]  
+**Author:** [Islam Abdelrahim]  
 
 **Date:** November 2025  
 
