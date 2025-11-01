@@ -8,8 +8,8 @@ Original file is located at
 
 ## ===============================================
 ## 🧠 Airline Delay Cause Classification with Keras
-## Author: [Your Name]
-## Date: [Month, Year]
+## Author: [Islam Abdelrahim]
+## Date: [11, 2025]
 ## Description:
 ## This notebook builds and evaluates a neural network
 ## to classify whether weather delays are significant
