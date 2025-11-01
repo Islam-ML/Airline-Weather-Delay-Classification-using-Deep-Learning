@@ -1,7 +1,6 @@
 
 # ✈️ Airline Delay Cause Classification
-2	+
-3	+
+
 This project aims to build a **deep learning model** that predicts whether a flight will experience a significant **weather delay (more than 100 minutes)**.  
 4	+
 The dataset contains multiple delay-related attributes, and the model is implemented using **TensorFlow** and **Keras** in **Google Colab**.
